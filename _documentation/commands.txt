@@ -1,0 +1,5 @@
+# View all migrations
+py manage.py makemigrations --check
+
+# Migrations
+python manage.py showmigrations
